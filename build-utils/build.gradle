@@ -22,4 +22,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.0'
 }
 
-//apply from: "/Users/chris/dev/scripts/gradle-mvn-push.gradle"
+apply from: "/Users/chris/dev/scripts/gradle-mvn-push.gradle"
