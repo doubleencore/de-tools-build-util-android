@@ -19,6 +19,8 @@ android {
     }
 }
 
+version project.PROJECT_VERSION_NUMBER
+
 dependencies {
     compile 'com.android.support:appcompat-v7:23.1.0'
 }
